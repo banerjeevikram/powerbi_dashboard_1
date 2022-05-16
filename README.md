@@ -26,3 +26,4 @@ Profit = SUM(InputData[Total Selling Value])-SUM(InputData[Total Buying Value])
 Profit % = [Profit]/SUM(InputData[Total Buying Value])
 
 For more information contact me at banerjeevikram92@gmail.com
+![](dashboard_1.png)
