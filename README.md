@@ -1,9 +1,12 @@
 # Sales KPI Dashboard in PowerBI
 Developing a sales dashboard in Power BI using Power Query to perform ETL (Extract-Tranform-Load) activities.
+
 Author: Vikram Banerjee
 Date: 16.05.2022
 Dataset: Sales-Dashboard-practice-file.xlxs
-\nSteps:
+
+Steps:
+
 1.	Import Data to PowerBI
 2.	Edit Data in Power Query Editor
 3.	Create Columns & Measures
