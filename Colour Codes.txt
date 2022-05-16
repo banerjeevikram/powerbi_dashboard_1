@@ -1,0 +1,8 @@
+Colour 1	#499195
+Colour 2	#21AE62
+Colour 3	#EF4164
+Colour 4	#2AA5C6
+Colour 5	#FFAD01
+Colour 6	#743DA3
+Colour 7	#C00000
+Colour 8	#002060

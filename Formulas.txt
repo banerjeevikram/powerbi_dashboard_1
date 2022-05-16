@@ -1,0 +1,7 @@
+1.	Total Buying Value = Sold Quantity X Unit Buying Price
+
+2.	Total Selling Value = Sold Quantity X Unit Buying Prize X (1-Discount%)
+
+3.	Profit = Total Selling Value – Total Buying Value
+
+4.	Profit% = Profit/Total Buying Value

@@ -1,0 +1,7 @@
+Total Buying Value = InputData[QUANTITY]*InputData[MasterData.BUYING PRIZE]
+
+Total Selling Value = InputData[QUANTITY]*InputData[MasterData.SELLING PRICE]*(1-InputData[DISCOUNT %])
+
+Profit = SUM(InputData[Total Selling Value])-SUM(InputData[Total Buying Value])
+
+Profit % = [Profit]/SUM(InputData[Total Buying Value])
